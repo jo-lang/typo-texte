@@ -19,4 +19,22 @@ body {
 	margin: 5vw;
 	font-size: 1.2rem;
 	line-height: 1.5;
+	font-family: 'Source Serif';
+	font-weight: 400;
+}
+
+article	{
+	max-width: 90vw;
+
+}
+
+
+section {
+
+}
+
+
+p {
+	font-size: 1.2rem;
+	max-width: 30em;
 }
